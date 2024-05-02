@@ -1,2 +1,2 @@
-# TinDog
+# TinDog Social Media
 TinDogWebSite
